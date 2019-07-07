@@ -4,7 +4,7 @@
 Firebase email and password authentication can be used to enable users of your android app register/login on your app using the old fashion email and password style without you worrying much about building a backend to support the user authentication process.
 
 
-Step 1:
+Step 1: 
 Create a new project on android studio or open an existing project you intend to add email/password authentication to.
 
 Step 2: 
