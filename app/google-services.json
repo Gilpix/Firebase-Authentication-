@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "461884669086",
+    "firebase_url": "https://picassotest-5db39.firebaseio.com",
+    "project_id": "picassotest-5db39",
+    "storage_bucket": "picassotest-5db39.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461884669086:android:1bc87465ba245ea2",
+        "android_client_info": {
+          "package_name": "com.padda.picassotest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "461884669086-a506ar2h7r3kjdgjq56min3n5moqh5ca.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.padda.picassotest",
+            "certificate_hash": "b9111787ece59bada9141fad002e6ffc59713fe5"
+          }
+        },
+        {
+          "client_id": "461884669086-9bqpbobm2tq9239ngukq1m1946hjklbe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABRk-KW0uP3ZjA0mD5Y3S4-E9b-Xp_Ras"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "461884669086-9bqpbobm2tq9239ngukq1m1946hjklbe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
