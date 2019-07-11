@@ -1,4 +1,4 @@
-package com.padda.picassotest;
+package com.padda.firebase;
 
 import org.junit.Test;
 

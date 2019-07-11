@@ -5,25 +5,33 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:gravity="center_vertical"
+    android:background="#1E88E5"
+
     android:orientation="vertical"
     android:padding="16dp"
-    tools:context=".MainActivity">
+    tools:context="com.padda.firebase.MainActivity">
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:textColor="#ffff"
+
         android:text="Register new account" />
 
     <EditText
         android:id="@+id/email"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:textColorHint="#A1FFFFFF"
+
         android:hint="Email" />
 
     <EditText
         android:id="@+id/password"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:textColorHint="#A1FFFFFF"
+
         android:hint="Password"
         android:inputType="textPassword" />
 
@@ -31,6 +39,10 @@
         android:id="@+id/register"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:background="#196DB9"
+        android:textColor="#ffff"
+
+
         android:text="Register" />
 
     <ProgressBar
